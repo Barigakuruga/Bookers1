@@ -67,7 +67,6 @@ td {
   margin-bottom: 10px;
 }
 
-
 label {
   display: block;
 }
@@ -89,7 +88,7 @@ label {
   padding: 2px;
   background-color: red;
   display: table;
-  
+
 }
 
 #error_explanation h2 {
