@@ -71,7 +71,7 @@ label {
   display: block;
 }
 
-#erro_explanation {
+#error_explanation {
   width:450px;
   border: 2px solid red;
   padding: 7px;
